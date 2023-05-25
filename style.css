@@ -1,0 +1,21 @@
+.titulo{
+    font-family: 'Press Start 2P', cursive;
+}
+
+#fundo{
+    text-align: center;
+}
+#contact {
+    background: lightgray;
+
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+    font-size: 15px;
+    text-decoration: none;
+}
